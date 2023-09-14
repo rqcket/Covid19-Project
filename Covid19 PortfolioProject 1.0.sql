@@ -153,7 +153,7 @@ where dea.continent is not null
 Select * ,(Total_Vaccinations/Population)*100
 from #PercentPopulationVaccinated order by 2,3
 
--- Creaing View to store data visualisations later
+-- Creating View to store data visualisations later
 
 CREATE VIEW PercentPeopleVaccinated as 
 Select dea.continent, dea.location,dea.date, dea.population, vac.new_vaccinations,
