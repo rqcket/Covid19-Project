@@ -21,4 +21,6 @@ In this COVID-19 data analysis project, I employed a variety of advanced SQL tec
 **Views**: Views were created to encapsulate complex SQL queries into easily accessible virtual tables. This not only simplified the querying process but also improved data security by limiting direct access to the underlying data tables. <br>
 
 I also created a basic Tableau dashboard in order to visualise the data well : <br>
-https://public.tableau.com/app/profile/pranav.handa6993/viz/Demo-Covid-19Dashboard/Dashboard1
+https://public.tableau.com/views/Demo-Covid-19Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
